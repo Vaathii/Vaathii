@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on KIKO & Vaathi.tk
 
-- 🌱 I’m currently learning Data Science,AWS,TS 
+- 🌱 I’m currently learning JavaScript,AWS,TS 
 
 - 👯 I’m looking to collaborate on  
 
