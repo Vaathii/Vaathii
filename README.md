@@ -35,7 +35,7 @@
 <a href = 'https://www.twitter.com/@lonewolf2018h'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/lonewolf750'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvnmwxco4dwtkydr25wutwpg3i&cover_image=true&theme=natemoo-re)]
+[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hvnmwxco4dwtkydr25wutwpg3i&cover_image=true&theme=natemoo-re)
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
