@@ -22,6 +22,6 @@ Hi! My name is Shiva. Thank You for taking the time to view my GitHub Profile ðŸ
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaathii&icon=0&color=0)]()
+[![](https://visitcount.itsvg.in/api?id=Vaathii&icon=1&color=3)]()
 
 <!-- (  ) -->
