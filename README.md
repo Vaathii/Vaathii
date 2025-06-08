@@ -1,41 +1,38 @@
 # 💫 About Me:
-Hey there! I'm **SivaShankar A V** (aka **Shiva**).  
+Hey there! I'm **SivaShankar A V** (aka **Shiva**).
 I'm a BCA student at Amrita AHEAD, a self-taught dev, and someone who vibes best with rain, good code, and meaningful tech.
 
-🚀 Currently building: `Cutie` (a Discord bot) and improving [shankar.fun](https://shankar.fun)  
-🧠 Learning: JavaScript, TypeScript, AWS, and more cool stuff daily  
-💬 Ask me about: Web dev, Discord bots, freelancing, or open source!  
-☁️ Dreaming of: A FAANG role and a cozy, green Kerala life full of pets & code.
+🌧️ Currently building **Rainly Studios**, an umbrella startup inspired by Google, while honing [shankar.fun](https://shankar.fun).
+Rainly Studios aims to house multiple tools and creative projects under one roof—from open source utilities to small SaaS ideas.
+My goal is to learn by doing and share that knowledge with the community.
+
+When I'm not coding, you'll find me exploring for local foods, teaching others, or chasing the perfect rainy playlist.
+
+### 🌐 Current Tech Stack
+- Python for automation and scripting
+- TypeScript for typed web development
+- Rust for blazing-fast tooling
+- Node.js & Express for APIs
+- React for component-based UIs
+- Next.js for dynamic sites
+- Tailwind CSS for quick design
+- Sass for maintainable CSS
+- Docker for containerization
+- Kubernetes for orchestration
+- GitHub Actions for CI/CD pipelines
+- AWS Lambda for serverless compute
+- DynamoDB for NoSQL storage
+- PostgreSQL for relational data
+- Redis for caching
+- GraphQL for flexible APIs
+- gRPC for microservices
+- Terraform for infrastructure as code
+- Nginx for efficient serving
+- Figma for design prototyping
+
+### 🌱 Guiding Philosophy
+"Leaving soft footprints on a loud world."
 
 ---
 
-# 💻 Tech Stack:
-<!-- You can keep your full tech stack badges here -->
-✨ *To be Updated.*
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaathii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaathii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaathii&theme=dark&hide_border=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaathii&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaathii&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Vaathii&icon=1&color=3)]()
-
-<sub>Last updated: {today}</sub>
-"""
+Feel free to connect or collaborate. Thanks for dropping by, and keep building amazing things!
